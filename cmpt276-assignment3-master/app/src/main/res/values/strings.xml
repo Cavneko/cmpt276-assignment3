@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="skip">Skip</string>
+    <string name="by_weixiang_kong_siwei_wang">by Weixiang Kong Siwei Wang</string>
+    <string name="badapple_seeker">BadApple Seeker</string>
+    <string name="todo">TODO</string>
+    <string name="hyperlink" />
+    <string name="game_information_nthis_game_is_a_searching_game_you_should_find_all_the_bad_apples_in_order_to_win_the_game_let_us_try_to_find_them" />
+    <string name="external_resources" />
+    <string name="image_for_bad_apple" />
+    <string name="image_for_background" />
+</resources>
